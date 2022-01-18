@@ -4,7 +4,7 @@
   "description": "",
   "main": "base.js",
   "scripts": {
-    "start": "node myserver.js"
+    "start": "node main_html.js"
   },
   "repository": {
     "type": "git",
