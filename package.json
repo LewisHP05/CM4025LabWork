@@ -1,0 +1,20 @@
+{
+  "name": "cm4025labwork",
+  "version": "1.0.0",
+  "description": "",
+  "main": "base.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node myserver.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LewisHP05/CM4025LabWork.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LewisHP05/CM4025LabWork/issues"
+  },
+  "homepage": "https://github.com/LewisHP05/CM4025LabWork#readme"
+}
